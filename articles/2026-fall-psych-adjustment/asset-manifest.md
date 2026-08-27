@@ -8,7 +8,7 @@
 
 | ID | Filename | Section | Style | Dimensions | Purpose | Public URL |
 |---|---|---:|---|---:|---|---|
-| A01 | 01-cover-campus.jpg | 0 | 写实校园摄影 + editorial 构图 | 750x1000 | 封面主视觉，供 HTML 标题叠放 | [raw](https://raw.githubusercontent.com/YianGuo-Psy/wechat-assets/a1fb810fe00c16c814616840f5e38f871908fe97/articles/2026-fall-psych-adjustment/assets/01-cover-campus.jpg) |
+| A01 | 01-cover-campus.jpg | 0 | 写实校园摄影 + editorial 构图 | 750x1000 | 封面整页背景，供 HTML 标题置于左上留白区 | [raw](https://raw.githubusercontent.com/YianGuo-Psy/wechat-assets/a1fb810fe00c16c814616840f5e38f871908fe97/articles/2026-fall-psych-adjustment/assets/01-cover-campus.jpg) |
 | A03 | 03-campus-desk.jpg | 1 | 写实静物摄影 | 750x500 | 开学生活拼贴：书桌 | [raw](https://raw.githubusercontent.com/YianGuo-Psy/wechat-assets/a1fb810fe00c16c814616840f5e38f871908fe97/articles/2026-fall-psych-adjustment/assets/03-campus-desk.jpg) |
 | A04 | 04-campus-walk.jpg | 1 | 电影感校园摄影 | 480x640 | 开学生活拼贴：树荫下行走 | [raw](https://raw.githubusercontent.com/YianGuo-Psy/wechat-assets/a1fb810fe00c16c814616840f5e38f871908fe97/articles/2026-fall-psych-adjustment/assets/04-campus-walk.jpg) |
 | A05 | 05-campus-corridor.jpg | 1 | 写实生活摄影 | 600x450 | 开学生活拼贴：走廊细节 | [raw](https://raw.githubusercontent.com/YianGuo-Psy/wechat-assets/a1fb810fe00c16c814616840f5e38f871908fe97/articles/2026-fall-psych-adjustment/assets/05-campus-corridor.jpg) |

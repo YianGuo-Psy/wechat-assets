@@ -3,15 +3,15 @@
 ## 0 Cover — single-focus magazine opener
 
 - Copy: BACK TO SCHOOL / 状态，慢慢回来 / 新学期开学心理调适指南
-- Layout: full-width campus photo first, then one cream title card overlaps the lower edge in natural flow; a blue issue strip and a sun-yellow rule support one dominant HTML title.
+- Layout: the campus photo fills the complete title page as a pinned CSS background; the editable HTML title sits directly in the upper-left photographic whitespace. The former blue issue strip and lower cream title card are removed.
 - Palette: cream `#F7F3E9`, sky `#6FA6D8`, sun `#F1C75B`, ink `#26364A`.
 - Assets: A01 cover campus photo. The former duplicate title-art layer is removed from the final snapshot.
-- Transition: photo baseline ends in a thin hand-drawn blue wave.
+- Transition: the full-bleed campus image flows directly into Section 01 without a separate title card.
 
 ## 1 Switching back — 01 / offset photo collage
 
 - Copy: a short context paragraph, three observations, and the normalization line.
-- Layout: one wide photo, then two unequal photos aligned opposite each other with text slipping between; safe-flow margins mimic collage without absolute positioning.
+- Layout: the shared section header uses a compact horizontal `01` marker; one wide photo, then two unequal photos align opposite each other with text slipping between.
 - Palette: warm paper, faded amber, muted denim.
 - Assets: A03 desk; A04 tree-shadow walk; A05 corridor/classroom.
 - Motifs: LOADING..., paper tape, small sun.

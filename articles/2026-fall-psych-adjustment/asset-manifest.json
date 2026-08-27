@@ -7,12 +7,12 @@
     {
       "id": "A01",
       "filename": "01-cover-campus.jpg",
-      "purpose": "封面主视觉，供 HTML 标题叠放",
+      "purpose": "封面整页背景，供 HTML 标题置于左上留白区",
       "section": "0",
       "visual_style": "写实校园摄影 + editorial 构图",
       "dimensions": "750x1000",
       "alt_text": "初秋校园道路与背书包学生的远景",
-      "generation_notes": "暖阳、树影、青年学生远景；上方和左侧留白；无文字、无校徽、无品牌",
+      "generation_notes": "暖阳、树影、青年学生远景；左上留白承载可编辑 HTML 标题；无文字、无校徽、无品牌",
       "repository_path": "articles/2026-fall-psych-adjustment/assets/01-cover-campus.jpg",
       "commit_sha": "a1fb810fe00c16c814616840f5e38f871908fe97",
       "public_https_url": "https://raw.githubusercontent.com/YianGuo-Psy/wechat-assets/a1fb810fe00c16c814616840f5e38f871908fe97/articles/2026-fall-psych-adjustment/assets/01-cover-campus.jpg"
